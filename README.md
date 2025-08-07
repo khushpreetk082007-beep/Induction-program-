@@ -1,10 +1,15 @@
-#Day 1
-8:30 - 9:30  
-[img]
--list1 
-Harriman Sir
-HOD supplied 
-Principal 
-Er. Rakesh
-Shri Rajendra Garg. Chief
-Engineer of Municipal Cooperation 
+MY EXPERIENCE @ GNDEC 
+#DAY 1 
+My first day at Guru Nanak dev engineering college (GNDEC) started with the blessing of God.After that, we went to the auditorium. In the Auditorium, the atmosphere was calm and the stage 
+was decorated with flowers. After waiting for 30 minutes, the host invited the first speaker, Head of Department Harpreet Mam, her lecture made us feel like we are already part of this college.
+Then our Principal Sir motivated us to make the best use of this platform.Then Prof.Harsimran Sir, Er. Rakesh Sir, Shri Ravinder Garg Chief Guest, Engineer of Municipal Cooperation who shres their experience with us.Students who spokes interacted and spoke up recieved chocolates.
+#DAY 2
+My day started with an English Proficiency Test and Maths Proficiency Test. A lecture by Dr. Arashdeep Singh Sir  on "Food: A pivotal Role in Students's Overall Wellness". Food plyas a crucial role in maintaining the overall wellness of students.In the lecture, Dr.Arashdeep Singh emphasized that a balance and nutritious diet supports not only physical health but also mental well-being, energy levels, and academics performance. He encourages studnets to develop mindful eating habits, stay hydrated, and avoid excessive junk food. The session highlighted how healthy food choices can improve concentration, reduce stress, and promote a more productive college life.good food habits improve both our bodyand mind.He also told us to avoid junk food and drink enough wter every day. This session made us understand how the right food choices can help in studies and overall health. The session led by Sharanjeet Sir. HE introduced to Github, a vital tool version control and collaboration. With his guidence, we set up our first repository, marking an important step in our journey as building developers. This hands-on indroduction was both practical and exciting, providing us with a foundational skill that will be crucial throughout our academic and professional careers.
+#DAY 3 
+ LECTURE BY JASWINDER SINGH (IAPT INCHARGE) at Guru Nanak Dev Engineering College. During this session, he spokes about the role of physics in our daily lives and its importance in modern science and technology. He inspired students to think logically and adopt a scientific approach to problem-solving. The lectutre was very informative and interactive, encouraging students to explore science beyond textbooks. It was valuable experience that promoted curiosity and deeper learning. Dr. singh discussed how physics is not just a subject but a way of understanding the world around us. He highlighted various practicalapplications of physics in daily life from technology and energy to communication and healthcare.students were encourages to ask questions, share their thoughts, and participate actively in discussions. 
+LECTURE BY Dr. PRIYA DARSHNI MAM ON THE TOPIC OF UNIVERSAL HUMAN VALUES AT GURU NANAK DEV ENGINEERING COLLEGE: The session was very heart touching and full of meaning. She explained how values like respect, honesty, compassion, responsibility, and love are not moral lessons but the foundation of a good life and a better society. Mam encourages us to understand the importance of being a good human being before becoming a successful professional.She also talked about empathy, understanding others feelings. 
+#DAY 4 
+Our English lecture was conducted by Porf. Aastik Sir, who gave us a warm and encouraging welcome to the subject. In the Class, he explained the importance of communication skills in both academics and professional life. Through this, He helped us reflect on our own personality and improve our self-expression.Sir also encourages us to speak in english confidently and without fear of making mistakes. He motivaated us to overcome and hestitated and told us that practice,anyone can become a good communiaction.After our englisg lecture, we had our first chemistry cxlass with Prof. Karan Sir. HE introduced the subject in a very simple and clear manner Sir explained the basics concepts. His way of teaching was interesting and easy to understand, which made us feel excited about learning more. He also encourages us to ask questions and build a strong foundation in the subject from the beginning.
+the session of Causmic Club Activities: It is the platform where students come togetehr to explore creativity, communication, and confidence . It helps us improve our speaking, leadership, and team-building skills through fun and engaging activites. The club conducts group discussions, debates, games nad interactive sessions thta boost our personality and prepare us for future challenges, Being a pat of this club gives students a chance to express themselves and grow beyond academics. 
+# DAY 5
+In P2P lecture, we explore how individual ca share ideas, skills and resources directly with one another to build innovation ventures.The session emplhasized the importance of peer collaboration, mutual learning, and real- world problem solving. 
